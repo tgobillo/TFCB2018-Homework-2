@@ -1,3 +1,3 @@
-#Homework 2
-##TFCB 2018
-##Ted Gobillot
+# Homework 2
+## TFCB 2018
+## Ted Gobillot
